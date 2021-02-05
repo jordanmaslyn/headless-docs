@@ -12,7 +12,7 @@ $ git init
 
 Create a `.gitignore` file in the root of your application, and add the following config to it. (Tip: Include any other files or directories that you do not want to commit to source control.)
 
-```text
+```txt
 node_modules
 .next
 wpe.json
